@@ -76,17 +76,20 @@ Open the project in Visual Studio 2013
 1. Turjay Paul
 2. Tartila Gofur Nishu
 
-
 ## Screenshots
 
-### **Menu**
-<img src="https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd" width="200" height="200">
 
-### **Character**
-<img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="200" height="200">
+<img width="1210" height="967" alt="Screenshot 2025-09-24 092608" src="https://github.com/user-attachments/assets/61f17d92-8145-465f-b819-a015638720cd" />
+
+<img width="1210" height="959" alt="Screenshot 2025-09-24 092421" src="https://github.com/user-attachments/assets/d3da6a72-2608-4acd-9a9b-ff14855b9eb3" />
+
+<img width="1208" height="959" alt="Screenshot 2025-09-24 092351" src="https://github.com/user-attachments/assets/1d5aca7c-b7ed-48a5-848d-82d6b180c082" />
+
+<img width="1207" height="964" alt="Screenshot 2025-09-24 092457" src="https://github.com/user-attachments/assets/c252cbb4-b668-4c48-a2a5-55d52076f3b3" />
+
 
 ## Youtube Link
 [CSE 1200 Project: Hoppy's Survival Chase](https://youtu.be/I3Q-4N3k-5U?si=XkWtHjGQ_ZkqhYkZ)
 
 ## Project Report
-[Project Report: The Fallen Kingdom](https://drive.google.com/drive/u/1/my-drive)
+[Project Report: Hoppy's Survival Chase](https://drive.google.com/file/d/1D0XQMFCvSKMWr8EJ0cep9YZU8dgbgPn0/view?usp=sharing)
