@@ -693,7 +693,7 @@ void checkFoodCollision() {
 				checkGameOver();
 				x = 300;  // reset rabbit position
 				y = 300;
-				break; // optional: stop checking other traps this frame
+				break;
 			}
 		}
 
